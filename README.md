@@ -1,7 +1,8 @@
 # Random-kaggle-project
 
 This is an assignment project I did for a company called Blackcoffer. 
-Link: https://blackcoffer.com/
+
+Company link: https://blackcoffer.com/
 
 It includes:
 
