@@ -1,4 +1,4 @@
-# Random-kaggle-project
+# Assignment project for blackcoffer
 
 This is an assignment project I did for a company called Blackcoffer. 
 
