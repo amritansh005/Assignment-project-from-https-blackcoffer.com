@@ -14,24 +14,25 @@ Then finally I removed the textual features that is Title and Article_text from 
 
 My new dataset looks something like this:
 
- #   Column                            Non-Null Count  Dtype  
----  ------                            --------------  -----  
- 0   URL_ID                            147 non-null    object 
- 1   URL                               147 non-null    object 
- 2   POSITIVE SCORE                    147 non-null    float64
- 3   NEGATIVE SCORE                    147 non-null    float64
- 4   POLARITY SCORE                    147 non-null    float64
- 5   SUBJECTIVITY SCORE                147 non-null    float64
- 6   AVG SENTENCE LENGTH               147 non-null    float64
- 7   COMPLEX WORD COUNT                147 non-null    int64  
- 8   PERCENTAGE OF COMPLEX WORDS       147 non-null    float64
- 9   FOG INDEX                         147 non-null    float64
- 10  AVG NUMBER OF WORDS PER SENTENCE  147 non-null    float64
- 11  COMPLEX WORD COUNT                147 non-null    int64  
- 12  WORD COUNT                        147 non-null    int64  
- 13  SYLLABLE PER WORD                 147 non-null    int64  
- 14  PERSONAL PRONOUNS                 147 non-null    int64  
- 15  AVG WORD LENGTH                   147 non-null    float64
+|    | Column                           | Non-Null Count | Dtype    |
+|---:|:---------------------------------|---------------:|:---------|
+|  0 | URL_ID                          |           147 | object   |
+|  1 | URL                             |           147 | object   |
+|  2 | POSITIVE SCORE                  |           147 | float64  |
+|  3 | NEGATIVE SCORE                  |           147 | float64  |
+|  4 | POLARITY SCORE                  |           147 | float64  |
+|  5 | SUBJECTIVITY SCORE              |           147 | float64  |
+|  6 | AVG SENTENCE LENGTH             |           147 | float64  |
+|  7 | COMPLEX WORD COUNT              |           147 | int64    |
+|  8 | PERCENTAGE OF COMPLEX WORDS     |           147 | float64  |
+|  9 | FOG INDEX                       |           147 | float64  |
+| 10 | AVG NUMBER OF WORDS PER SENTENCE |           147 | float64  |
+| 11 | COMPLEX WORD COUNT              |           147 | int64    |
+| 12 | WORD COUNT                      |           147 | int64    |
+| 13 | SYLLABLE PER WORD               |           147 | int64    |
+| 14 | PERSONAL PRONOUNS               |           147 | int64    |
+| 15 | AVG WORD LENGTH                 |           147 | float64  |
+
  
 Then finally I saved the data in a csv file.
 
