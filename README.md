@@ -35,15 +35,5 @@ My new dataset looks something like this:
 | 14 | PERSONAL PRONOUNS               |           147 | int64    |
 | 15 | AVG WORD LENGTH                 |           147 | float64  |
 
-
- | URL_ID | URL                                                                 | POSITIVE SCORE | NEGATIVE SCORE | POLARITY SCORE | SUBJECTIVITY SCORE | AVG SENTENCE LENGTH | COMPLEX WORD COUNT | PERCENTAGE OF COMPLEX WORDS | FOG INDEX | AVG NUMBER OF WORDS PER SENTENCE | COMPLEX WORD COUNT | WORD COUNT | SYLLABLE PER WORD | PERSONAL PRONOUNS | AVG WORD LENGTH   
- |
-|--------|---------------------------------------------------------------------|----------------|----------------|-----------------|--------------------|----------------------|--------------------|------------------------------|-----------|---------------------------------|--------------------|------------|------------------|-------------------|-----------------|
-| 0      | https://insights.blackcoffer.com/ml-and-ai-bas...                  | 34.0           | 8.0            | 0.619048        | 0.078212          | 40.294118           | 249               | 36.350365                     | 30.657793 | 40.294118                      | 249               | 451        | 1569             | 1                 | 6.093431       |
-| 1      | https://insights.blackcoffer.com/streamlined-i...                  | 1.0            | 0.0            | 0.999999        | 0.043478          | 20.000000           | 5                 | 25.000000                     | 18.000000 | 20.000000                      | 5                 | 16         | 41               | 0                 | 5.900000       |
-| 2      | https://insights.blackcoffer.com/efficient-dat...                  | 1.0            | 0.0            | 0.999999        | 0.055556          | 19.000000           | 4                 | 21.052632                     | 16.021053 | 19.000000                      | 4                 | 13         | 35               | 0                 | 5.105263       |
-| 3      | https://insights.blackcoffer.com/effective-man...                  | 1.0            | 0.0            | 0.999999        | 0.045455          | 21.000000           | 5                 | 23.809524                     | 17.923810 | 21.000000                      | 5                 | 15         | 38               | 0                 | 5.333333       |
-| 4      | https://insights.blackcoffer.com/streamlined-t...                  | 1.0            | 0.0            | 0.999999        | 0.043478          | 20.000000           | 6                 | 30.000000                     | 20.000000 | 20.000000                      | 6                 | 16         | 42               | 0                 | 6.050000       |
-
 Then finally I saved the data in a csv file.
 
