@@ -1,2 +1,7 @@
 # Random-kaggle-project
-I just randomly found this project on kaggle which includes web scraping along with data analysis.
+
+This is an assignment project I did for a company called Blackcoffer. 
+
+It includes web scraping using python. 
+
+Followed by pre-processing and cleaning the data.
