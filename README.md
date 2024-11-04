@@ -14,6 +14,7 @@ Then finally I removed the textual features that is Title and Article_text from 
 
 My new dataset looks something like this:
 
+
 |    | Column                           | Non-Null Count | Dtype    |
 |---:|:---------------------------------|---------------:|:---------|
 |  0 | URL_ID                          |           147 | object   |
@@ -32,6 +33,7 @@ My new dataset looks something like this:
 | 13 | SYLLABLE PER WORD               |           147 | int64    |
 | 14 | PERSONAL PRONOUNS               |           147 | int64    |
 | 15 | AVG WORD LENGTH                 |           147 | float64  |
+
 
  
 Then finally I saved the data in a csv file.
